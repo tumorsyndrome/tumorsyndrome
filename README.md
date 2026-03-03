@@ -13,4 +13,4 @@
 
 　　　　　
      
-``No. I do NOT romantize Ivandrew. I am well aware of Ivan’s abuse and Andrew’s suffering, and is actively trying to change.``
+``No. I do NOT romanticize Ivandrew. I am well aware of Ivan’s abuse and Andrew’s suffering, and is actively trying to change.``
