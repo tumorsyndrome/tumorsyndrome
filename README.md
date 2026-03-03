@@ -10,4 +10,7 @@
 　　
 　
 　　　　　***❝ The only girl I ever loved was*** ``Andrew`` ***in drag. ❞***
+
+　　　　　
      
+``No. I do NOT romantize Ivandrew. I am well aware of Ivan’s abuse and Andrew’s suffering, and is actively trying to change.``
