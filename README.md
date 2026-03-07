@@ -1,3 +1,4 @@
+ㅤ
 <p align="center">$\color{#7C79AF}{“Y’know,ㅤsometimesㅤIㅤfeelㅤlikeㅤyou’reㅤhopingㅤforㅤaㅤdifferentㅤresponse.”}$</p>
 
 <p align="center">$\color{#915A8D}{“Iㅤdon’t ...ㅤWhat?”}$</p>
