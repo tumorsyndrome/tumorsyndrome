@@ -2,7 +2,9 @@
 
 <p align="center">$\color{#915A8D}{“Iㅤdon’t ...ㅤWhat?”}$</p>
 
-<p align="center">$\color{#7C79AF}{“Youㅤaskㅤmeㅤthatㅤquestionㅤallㅤtheㅤtime.ㅤThatㅤquestion,ㅤallㅤtheㅤtime.ㅤ“Areㅤyouㅤokay?”ㅤ“Areㅤyouㅤokay?”}$</p>
+<p align="center">$\color{#7C79AF}{“Youㅤaskㅤmeㅤthatㅤquestionㅤallㅤtheㅤtime.ㅤThatㅤquestion,ㅤallㅤtheㅤtime.”}$
+
+<p align="center">$\color{#7C79AF}{“Areㅤyouㅤokay?”ㅤ“Areㅤyouㅤokay?”}$</p>
 
 <p align="center">$\color{#915A8D}{“Iㅤdon’tㅤknow,ㅤman,ㅤit’sㅤjustㅤaㅤcourtesy.”}$</p>
 
@@ -15,7 +17,9 @@
 　　
 　　
 　ㅤ
-<p align="center">$\color{#7C79AF}{“Yeah,ㅤitㅤprobablyㅤwouldㅤbe,ㅤbutㅤyouㅤknowㅤtheㅤanswer.ㅤAndㅤIㅤalreadyㅤknowㅤyouㅤcare,ㅤsoㅤwhat’sㅤtheㅤpoint?”}$</p>
+<p align="center">$\color{#7C79AF}{“Yeah,ㅤitㅤprobablyㅤwouldㅤbe,ㅤbutㅤyouㅤknowㅤtheㅤanswer.}$</p>
+
+<p align="center">$\color{#7C79AF}{AndㅤIㅤalreadyㅤknowㅤyouㅤcare,ㅤsoㅤwhat’sㅤtheㅤpoint?”}$</p>
 
 <p align="center">$\color{#915A8D}{“Ivan,ㅤI—”}$</p>
 
